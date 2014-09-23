@@ -10,3 +10,4 @@ ex_spectrumanalyzer_tut
 demoimaqsl_rgbhistogram_maccam
 
 %%
+targetinstaller
